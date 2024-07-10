@@ -34,6 +34,9 @@
   <img width="12" />
   <img  title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 
  
 <h2 align="left">:hammer_and_wrench: Technologies:</h2>
@@ -49,9 +52,7 @@
   <img width="12" />
   <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
   <img width="12" />
-  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  
 
 <h2 align="left">:heart: Lets Connect:</h2>
 <a href="https://www.linkedin.com/in/prabhat-jadhav/" rel="nofollow noreferrer">
