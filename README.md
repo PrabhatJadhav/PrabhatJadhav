@@ -52,6 +52,10 @@
   <img width="12" />
   <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
   <img width="12" />
+  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img title="PhotoShop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" alt="photoshoplogo"  />
+  <img width="12" />
   
 
 <h2 align="left">:heart: Lets Connect:</h2>
