@@ -77,7 +77,7 @@
 
 <h2 align="left">:star:GitHub Trophies:</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatjadhav" alt="prabhatjadhav" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatjadhav" alt="prabhatjadhav" /></a> </p>
 
 
 
