@@ -50,7 +50,7 @@
   <img width="12" />
   <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
   <img width="12" />
-  <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo"  />
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
   <img width="12" />
