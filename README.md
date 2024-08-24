@@ -34,7 +34,7 @@
   <img width="12" />
   <img  title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img  title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="30" alt="python logo"  />
+  <img  title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
